@@ -1,3 +1,3 @@
 # Only used by the one-click installer.
-# Example:
-# --listen --api
+ --listen --api
+--extensions webui_tavernai_charas,openai,gallery,superbooga
